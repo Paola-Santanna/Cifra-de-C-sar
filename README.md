@@ -1,2 +1,3 @@
 # Cifra-de-Cesar
-Gerador de Cifra de César - Criptografia
+Gerador - Cifra de César
+Como parte da disciplina de criptografia, foi proposta a atividade de desenvolver um código que convertesse o texto puro em texto cifrado, baseado na cifra de César.
